@@ -1,1 +1,1 @@
-Projekt symulatora baterii wykonany w preogramie Eagle. Plik z rozszerzeniem sym.sch zawiera schemat ideowy układu, plik sym.brd zaweiera projekt płytki
+A battery simulator project created in Eagle. The sym.sch file contains the circuit diagram, while the sym.brd file contains the board design.
